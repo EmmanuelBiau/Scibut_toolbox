@@ -1,4 +1,4 @@
-# Scibut_toolbox
+Scibut_toolbox
 
 The folder contains all the necessary scripts to use the Schultz Cigarette Burn Toolbox for measuring video framerates and onset times.
 
